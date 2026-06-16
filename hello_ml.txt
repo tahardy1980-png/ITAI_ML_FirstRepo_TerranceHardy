@@ -1,3 +1,3 @@
-Hello from Terrance Hardy
-
 This is my first GitHub file for the Classic Machine Learning course.
+
+Hello from Terrance Hardy
